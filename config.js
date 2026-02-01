@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Malheureusement, je ne peux pas t’apporter des biscuits red velvet ni des fraises enrobées de chocolat, mais je vais te demander d'être ma valentine à ma façon",
+    pageTitle: "Je vais te demander d'être ma valentine à ma façon",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Je suis l'homme le plus heureux du monde",
+        title: "Je suis l'homme le plus heureux du monde!!!!!",
         message: "Je te promets plein de calins et bisous babyyy",
         emojis: "🥰💋💐❤️🍑💦"  // These will bounce around
     },
